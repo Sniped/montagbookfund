@@ -1,10 +1,13 @@
-import Head from 'next/head';
-import styles from '../styles/Home.module.css';
+import { NextRouter } from 'next/router';
+import { Component } from 'react';
+import HeroContainer from '../components/heroContainer';
+import Navbar from '../components/navbar';
 
 export default function Home() {
 	return (
-		<div className={styles.container}>
-			<p>Hello World</p>
+		<div>
+			<Navbar />
+			<HeroContainer />			
 		</div>
 	);
 }
