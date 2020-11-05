@@ -6,7 +6,7 @@ Oh, what can I say about plain old Mildred? Throughout my years of being her hus
 
 ### Clarisse
 
-Clarisse was like the daughter I never had, she opened my eyes to what the world could really be like. If I had never met her, I wonder where I would be today, probably dead from that explosion! We would talk quite often before she got hit by that car, I would always see her on my way back from work doing something that I've never seen anyone do before. I was always unprepared for what she had in store for each day, which is what made it even more exciting. 
+Clarisse was like the daughter I never had, she opened my eyes to what the world could really be like. If I had never met her, I wonder where I would be today, probably dead from that explosion! We would talk quite often before she got hit by that car, I would always see her on my way back from work doing something that I've never seen anyone do before. I was always unprepared for what she had in store for each day, which is what made it even more exciting.
 
 ### Faber
 
@@ -14,7 +14,7 @@ Faber, the old friend that I mentioned in my last article, was actually one of t
 
 ### Beatty
 
-The thing that freaked me out about Beatty was that he wasn't at all oblivious, in fact, he knew and understood more than I did about the books. However, he wanted people to be like this in society, he intentionally wanted people to conform to the government and succumb to the fake reality that it had created. Though, thinking about this now, did he really think that way? When I had killed him with that flamethrower, it looked to me as if he had *wanted* to die. Did he actually feel guilty for the amount of pain he had caused to everyone? It's a weird question to ask, since he was the main advocate for burning books and censoring them, but read them himself and might have felt guilty for it. I feel horrible about killing him, but maybe it was for the best after all.
+The thing that freaked me out about Beatty was that he wasn't at all oblivious, in fact, he knew and understood more than I did about the books. However, he wanted people to be like this in society, he intentionally wanted people to conform to the government and succumb to the fake reality that it had created. Though, thinking about this now, did he really think that way? When I had killed him with that flamethrower, it looked to me as if he had _wanted_ to die. Did he actually feel guilty for the amount of pain he had caused to everyone? It's a weird question to ask, since he was the main advocate for burning books and censoring them, but read them himself and might have felt guilty for it. I feel horrible about killing him, but maybe it was for the best after all.
 
 ### Granger
 

@@ -3,9 +3,5 @@
 @tailwind utilities;
 
 html {
-	@apply bg-gray-100
-}
-
-.heroBackground {
-	background-image: url("/hero_background.jpeg")
+	@apply bg-gray-100;
 }

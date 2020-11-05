@@ -11,7 +11,8 @@ export const posts: BlogPost[] = [
 			authorAvatar:
 				'https://cdn.mos.cms.futurecdn.net/rTiEVv6XuRthc3QYQcznLo-1200-80.jpg',
 		},
-		previewText: 'During my time as a salamander, I was in close association with a comrade of mine by the name of Faber.',
+		previewText:
+			'During my time as a salamander, I was in close association with a comrade of mine by the name of Faber.',
 		contentType: 'markdown',
 	},
 	{
@@ -24,7 +25,8 @@ export const posts: BlogPost[] = [
 			authorAvatar:
 				'https://cdn.mos.cms.futurecdn.net/rTiEVv6XuRthc3QYQcznLo-1200-80.jpg',
 		},
-		previewText: 'Before I ever became aware of what was going on in society, I can\'t help but think that I was the same as everyone else deceived by the government.',
+		previewText:
+			"Before I ever became aware of what was going on in society, I can't help but think that I was the same as everyone else deceived by the government.",
 		contentType: 'markdown',
 	},
 	{
@@ -37,7 +39,8 @@ export const posts: BlogPost[] = [
 			authorAvatar:
 				'https://cdn.mos.cms.futurecdn.net/rTiEVv6XuRthc3QYQcznLo-1200-80.jpg',
 		},
-		previewText: 'As you may or may not have known, I was a salamander for ten years.',
+		previewText:
+			'As you may or may not have known, I was a salamander for ten years.',
 		contentType: 'markdown',
 	},
 ];

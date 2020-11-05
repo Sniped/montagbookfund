@@ -8,9 +8,7 @@ export default function Home() {
 		<div>
 			<Navbar />
 			<HeroContainer />
-			<PostsContainer
-				posts={posts}
-			/>
+			<PostsContainer posts={posts} />
 		</div>
 	);
 }
