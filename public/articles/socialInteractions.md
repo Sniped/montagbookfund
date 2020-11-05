@@ -1,4 +1,4 @@
-Before I ever became aware of what was going on in society, I can't help but think that I was the same as everyone else deceived by the government. Over my time in the city and my time as a salamander, I've met many people who've had similar personalities and the odd few who've been different from the others. I want to take the time to describe these people and their personalities, whether or not they're distinct from each other.
+Before I ever became aware of what was going on in society, I can't help but think that I was the same as everyone else deceived by the government. Over my time in the city and my time as a salamander, I've met many people who've had similar personalities and the odd few who've been different from the others. I want to take the time to describe these people and their personalities and how they have helped me come to understand myself better in the end.
 
 ### Mildred
 
