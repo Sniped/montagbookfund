@@ -4,7 +4,7 @@ export const posts: BlogPost[] = [
 	{
 		postId: 'societyProblems',
 		featured: false,
-		title: 'The Problems With Society Today',
+		title: 'The Problems With Society',
 		author: {
 			authorId: 'guyMontag',
 			authorName: 'Guy Montag',
