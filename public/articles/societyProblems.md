@@ -6,7 +6,7 @@ Quality refers to the quality of the writing we're given, this would include the
 
 ### Leisure to Digest
 
-While the quality of the writing that was given to us in society is a huge issue in our society, another one would be the leisure for people in our society to digest this information. We can have the best quality of writing in the world, however if people don't want to digest this information and make their own inferences on it, there is no way society would ever improve. In fact, the reason the salamanders were ever repurposed to burn books in the first place was because society didn't want to read books anymore. If you really think about it, we let them control our lives blindly! They exploited our ignorance and turned it into bliss, as if we were in a casino where time didn't pass.
+While the quality of the writing that was given to us in society is a huge issue in our society, another one would be the leisure for people in our society to digest this information. We can have the best quality of writing in the world, however if people don't want to digest this information and make their own inferences on it, there is no way society would ever improve. In fact, the reason the salamanders started burning books in the first place was because society didn't want to read books anymore. If you really think about it, we let them control our lives blindly! They exploited our ignorance and turned it into bliss, as if we were in a casino where time didn't pass.
 
 ### Right to Carry Out Actions
 
